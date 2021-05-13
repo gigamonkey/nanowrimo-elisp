@@ -1,3 +1,5 @@
+DEPRECATED: This code combined with some other, now lives in https://github.com/gigamonkey/writing
+
 Some elisp I used during my successful 2009 NaNoWriMo effort.
 
 Counts words using `wc' which seems to be what the official NaNoWriMo
